@@ -1,0 +1,6 @@
+framework module Pods_JHCToastHud_Example {
+  umbrella header "Pods-JHCToastHud_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - JHCToastHud (0.1.0)
+
+DEPENDENCIES:
+  - JHCToastHud (from `../`)
+
+EXTERNAL SOURCES:
+  JHCToastHud:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHCToastHud: 2bef891d84dc0bbfbda7902e7a8bbf0f4f9950c8
+
+PODFILE CHECKSUM: 0f372fedddda099e4e7f962b21a1268a3ceb7fa5
+
+COCOAPODS: 1.11.2
